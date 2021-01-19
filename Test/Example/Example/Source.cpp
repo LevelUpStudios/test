@@ -11,7 +11,7 @@ int main()
 	cout << "=============\n ";
 	cout << "\n";
 	cout << "Thats' all folks.";
-
+	cout << "Who cut the Cheese?\n";
 	cin.get();
 	return 0;
 }
