@@ -10,7 +10,7 @@ int main()
 	cout << "Hello World\n";
 	cout << "=============\n ";
 	cout << "\n";
-	cout << "Press enter.";
+	cout << "Thats' all folks.";
 
 	cin.get();
 	return 0;
